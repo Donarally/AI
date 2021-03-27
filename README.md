@@ -30,6 +30,8 @@ Everyone creates their own profile with their tastes, for example:
 - I have a car
 - I like cinema
 
+Someone decides a date, a time and what you want to do (for example a dinner, or we will decide later) and invite friends to the event.
+The system, based on date, time, proposal of the creator of the event, preferences of all invited users, offers the best solutions.
 
 ## Data sources and AI methods
 In addition to the user's preferences, it will be necessary to find the data of most of the entertainments, places, temperatures, categories and everything that can identify a possible activity.
