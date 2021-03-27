@@ -43,8 +43,9 @@ What does your project _not_ solve? Which limitations and ethical considerations
 ## What next?
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
--->
+
 
 ## Acknowledgments
 
 list here the sources of inspiration 
+-->
