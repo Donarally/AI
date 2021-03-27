@@ -36,14 +36,14 @@ The system, based on date, time, proposal of the creator of the event, preferenc
 ## Data sources and AI methods
 In addition to the user's preferences, it will be necessary to find the data of most of the entertainments, places, temperatures, categories and everything that can identify a possible activity.
 
-## Challenges
+<!--## Challenges
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
 ## What next?
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+-->
 
 ## Acknowledgments
 
